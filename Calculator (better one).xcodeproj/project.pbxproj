@@ -36,6 +36,7 @@
 		E0C926C31A9255F700F2C661 /* Calculator (better one)Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Calculator (better one)Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0C926C81A9255F700F2C661 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E0C926C91A9255F700F2C661 /* Calculator__better_one_Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Calculator__better_one_Tests.swift; sourceTree = "<group>"; };
+		E0C926D31A9258E500F2C661 /* MyriadPro-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "MyriadPro-Regular.otf"; path = "../../MyriadPro-Regular.otf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +63,7 @@
 				E0C926B01A9255F700F2C661 /* Calculator (better one) */,
 				E0C926C61A9255F700F2C661 /* Calculator (better one)Tests */,
 				E0C926AF1A9255F700F2C661 /* Products */,
+				E0C926D31A9258E500F2C661 /* MyriadPro-Regular.otf */,
 			);
 			sourceTree = "<group>";
 		};
@@ -407,6 +409,7 @@
 				E0C926CF1A9255F700F2C661 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E0C926D01A9255F700F2C661 /* Build configuration list for PBXNativeTarget "Calculator (better one)Tests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +418,7 @@
 				E0C926D21A9255F700F2C661 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
